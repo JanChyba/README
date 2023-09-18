@@ -1,3 +1,3 @@
 # dataviz
 school project
-bla bla + bla lab
+resolved confict bla bla
